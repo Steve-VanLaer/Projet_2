@@ -2,7 +2,7 @@
 *** Table des matières ***
 
 1) Introduction
-2) 2) Variables
+2) Variables
 3) Affichage
 4) Listes
 5) Boucles et comparaisons
