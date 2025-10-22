@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 *** Table des matières ***
 
 1) Introduction
@@ -26,3 +27,4 @@
 24) Fenêtres graphiques et Tkinter
 25) Remarques
 26) Mini-projets
+=======
