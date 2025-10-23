@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *** Table des matières ***
 
 1) Introduction
@@ -28,3 +29,6 @@
 25) Remarques
 26) Mini-projets
 =======
+=======
+# Projet_2
+>>>>>>> 34a85624daee0dd8682668090fda158eb991d4c7
