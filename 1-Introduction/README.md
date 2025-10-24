@@ -22,8 +22,9 @@ Une bonne habitude consiste à respecter une indentation de 4 espaces.
 
 Python permet d’introduire des commentaires dans son code. Tout ce qui est écrit après le signe # est ignoré par Python qui l’interprète comme un commentaire. Un commentaire est la documentation d’un code. Il doit expliquer en langage humain ce que fait un code pour qu’il soit compris par un autre programmeur. La présence de commentaires dans un code fait partie des bonnes pratiques en programmation.
 
-Compétences pratiques acquises au cours de cette introduction et fichier .py connexes :
-    • afficher un texte					                - hello-world.py
-    • afficher une somme	 			                - somme.py
-    • écrire un commentaire				                - commentaire.py
-    • afficher du texte sur deux lignes ou plusieurs	- com_2_lignes.py
+*** Exercies ***
+
+- **hello-world.py** : afficher un texte
+- **somme.py**       : afficher une somme
+- **commentaire.py** : écrire un commentaire
+- **com_2_lignes.py**: afficher du texte sur deux lignes ou plusieurs
