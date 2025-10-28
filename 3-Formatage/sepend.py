@@ -1,5 +1,0 @@
-# Concaténer une adresse email dont la partie locale contient un point (.)
-nom = input('Introduisez votre nom :')
-prenom = input('Introduisez votre prenom : ')
-print(prenom.lower(),nom.lower(),sep=".",end="@")
-print("yahoo.com")

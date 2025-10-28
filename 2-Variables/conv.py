@@ -2,6 +2,11 @@
 age = int(input('Introduisez votre âge : '))
 print(type(age))
 
+# Convertir une variable string en float
+htva = float('Introduire le montant htva : ')
+tvac = htva * 1.06      # nécissité de la conversion pour effectuer des calculs
+print(tvac)
+
 # Convertir une variable float en type int
 a = 2.3
 b = int(a)
